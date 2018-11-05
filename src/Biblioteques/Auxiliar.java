@@ -9,6 +9,7 @@ import java.util.Scanner;
 public class Auxiliar {
     /** Funcio per a carregar els menus principals */
     public static int menu(String[] opcio, int opcions){
+        //nananananananan
         Scanner sc = new Scanner(System.in);       //Inicialització del Scanner
         IO.imprimirTI("------------ MENU ------------");
         for(int i=0; i<opcions; i++){    //Bucle per a recorrer i imprimir la array de les opcions
